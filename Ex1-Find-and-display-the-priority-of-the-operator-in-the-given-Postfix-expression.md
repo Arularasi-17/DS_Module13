@@ -21,10 +21,10 @@ ii. Print the operator along with its priority level.
 
 
 ## Program:
-```
+
 DEVELOPED BY: ARULARASI U
 REG NO: 212223100002
-/*
+```
 #include <stdio.h>
 #include<string.h>
 int priority(char x)
@@ -78,9 +78,7 @@ break;
 }
 return 0;
 }
-Developed by: DHARSHINIYAA KS 
-RegisterNumber: 212223100004
-*/
+
 ```
 
 ## Output:
